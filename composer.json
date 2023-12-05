@@ -1,0 +1,20 @@
+{
+    "name": "pshenichniyinfo/keycrm",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "Pshenichniyinfo\\Keycrm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pshenichniyinfo",
+            "email": "pshenichniyinfo@gmal.com",
+            "homepage": "https://github.com/pshenichniyinfo/"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
