@@ -36,3 +36,5 @@ G.idea/sonarlint/issuestore/3/9/3957b91a0d8450cea0115cfd5af69eac90d75897,e/8/e8
 Q.idea/sonarlint/securityhotspotstore/3/5/35b8c13cf2eb2a194eada000eb310d65aed53b2a,c/d/cdb41fff691175c26b6b290b03da638b954ee337
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+;
+.travis.yml,d/e/dea01dd89a3b602828e630677fde5d77c06441c8
